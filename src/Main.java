@@ -26,7 +26,9 @@ public class Main {
      static void sumd(){
 
 
-        System.out.println(x+y);
+
+         System.out.println(x+y);
+         System.out.println(x-y);
      }
 
 
